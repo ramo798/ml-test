@@ -1,0 +1,2 @@
+jupyter notebook
+で起動する
